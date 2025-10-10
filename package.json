@@ -1,0 +1,22 @@
+{
+  "name": "gymnasio",
+  "version": "1.0.0",
+  "description": "es una api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbelBusi/Sistema-Gymnasio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbelBusi/Sistema-Gymnasio/issues"
+  },
+  "homepage": "https://github.com/AbelBusi/Sistema-Gymnasio#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
